@@ -2,7 +2,7 @@
   parent: ClothingHandsBase
   id: ClothingHandsGlovesColorPurple
   name: purple gloves
-  description: Regular purple gloves that do not keep you from frying.
+  description: Regular purple gloves.
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/Color/purple.rsi
@@ -13,7 +13,7 @@
   parent: ClothingHandsBase
   id: ClothingHandsGlovesColorRed
   name: red gloves
-  description: Regular red gloves that do not keep you from frying.
+  description: Regular red gloves.
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/Color/red.rsi
@@ -24,7 +24,7 @@
   parent: ClothingHandsBase
   id: ClothingHandsGlovesColorBlack
   name: black gloves
-  description: Regular black gloves that do not keep you from frying.
+  description: Regular black gloves.
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/Color/black.rsi
@@ -35,7 +35,7 @@
   parent: ClothingHandsBase
   id: ClothingHandsGlovesColorBlue
   name: blue gloves
-  description: Regular blue gloves that do not keep you from frying.
+  description: Regular blue gloves.
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/Color/blue.rsi
@@ -46,7 +46,7 @@
   parent: ClothingHandsBase
   id: ClothingHandsGlovesColorBrown
   name: brown gloves
-  description: Regular brown gloves that do not keep you from frying.
+  description: Regular brown gloves.
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/Color/brown.rsi
@@ -57,7 +57,7 @@
   parent: ClothingHandsBase
   id: ClothingHandsGlovesColorGray
   name: grey gloves
-  description: Regular grey gloves that do not keep you from frying.
+  description: Regular grey gloves.
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/Color/gray.rsi
@@ -68,7 +68,7 @@
   parent: ClothingHandsBase
   id: ClothingHandsGlovesColorGreen
   name: green gloves
-  description: Regular green gloves that do not keep you from frying.
+  description: Regular green gloves.
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/Color/green.rsi
@@ -79,7 +79,7 @@
   parent: ClothingHandsBase
   id: ClothingHandsGlovesColorLightBrown
   name: light brown gloves
-  description: Regular light brown gloves that do not keep you from frying.
+  description: Regular light brown gloves.
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/Color/lightbrown.rsi
@@ -90,7 +90,7 @@
   parent: ClothingHandsBase
   id: ClothingHandsGlovesColorOrange
   name: orange gloves
-  description: Regular orange gloves that do not keep you from frying.
+  description: Regular orange gloves.
   components:
   - type: Sprite
     sprite: Clothing/Hands/Gloves/Color/orange.rsi

@@ -54,7 +54,7 @@
   parent: ClothingBackpack
   id: ClothingBackpackMedical
   name: medical backpack
-  description: It's a backpack especially designed for use in a sterile environment.
+  description: It's a backpack specially designed for use in a sterile environment.
   components:
   - type: Sprite
     sprite: Clothing/Back/Backpacks/medical.rsi

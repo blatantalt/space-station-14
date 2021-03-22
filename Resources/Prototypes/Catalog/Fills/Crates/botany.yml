@@ -25,7 +25,7 @@
   id: CrateHydroponicsTools
   name: hydroponics equipment crate
   parent: CrateHydroponics
-  description: "Supplies for growing a great garden! Contains some spray bottles of plant chemicals, a hatchet, a mini-hoe, scythe, as well as a pair of leather gloves and a botanist's apron."
+  description: "Supplies for growing a great garden! Contains some spray bottles of plant chemicals, a hatchet, a mini-hoe, and scythe, as well as a pair of leather gloves and a botanist's apron."
   components:
   - type: StorageFill
     contents:

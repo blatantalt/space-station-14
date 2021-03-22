@@ -21,7 +21,7 @@
   name: flashbang box
   parent: BoxBase
   id: BoxFlashbang
-  description: 'WARNING: These devices are extremely dangerous and can cause blindness or deafness in repeated use.'
+  description: 'WARNING: These devices are extremely dangerous and can cause blindness or deafness with repeated use.'
   components:
   - type: StorageFill
     contents:

@@ -57,7 +57,7 @@
   parent: ClothingEyesBase
   id: ClothingEyesGlassesMeson
   name: optical meson scanners
-  description: The pinnacle of modern science, wallhacks in real life
+  description: The pinnacle of modern science, wallhacks in real life!
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Glasses/meson.rsi
@@ -68,7 +68,7 @@
   parent: ClothingEyesBase
   id: ClothingEyesGlasses
   name: glasses
-  description: You want to wear glasses in a game? Imagine rping as physically disabled.
+  description: Perfect for becoming the target of easy bullying.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Glasses/glasses.rsi
@@ -79,7 +79,7 @@
   parent: ClothingEyesBase
   id: ClothingEyesGlassesSunglasses
   name: sun glasses
-  description: Useful both for security and cargonia
+  description: For cool dudes only.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Glasses/sunglasses.rsi

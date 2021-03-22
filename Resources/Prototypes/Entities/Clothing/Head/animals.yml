@@ -35,7 +35,7 @@
   parent: ClothingHeadBase
   id: ClothingHeadHatAnimalHeadslime
   name: headslime
-  description: A green, sticky headslime, you put it on your head.
+  description: A green, sticky headslime. It's called a headslime because you put it on your head.
   components:
   - type: Sprite
     sprite: Clothing/Head/Animals/headslime.rsi
@@ -46,7 +46,7 @@
   parent: ClothingHeadBase
   id: ClothingHeadHatAnimalMonkey
   name: monkey
-  description: That's a monkey head. It has a hole on a mouth to eat bananas.
+  description: That's a monkey head. It has a hole in the mouth to eat bananas.
   components:
   - type: Sprite
     sprite: Clothing/Head/Animals/monkey.rsi
